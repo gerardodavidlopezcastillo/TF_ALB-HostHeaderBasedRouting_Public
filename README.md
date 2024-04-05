@@ -1,6 +1,5 @@
 ---
 title: AWS ALB Host Header based Routing using Terraform
-description: Create AWS Application Load Balancer Host Header based Routing Rules usign Terraform
 ---
 
 # TF_ALB-HostHeaderBasedRouting_Public
