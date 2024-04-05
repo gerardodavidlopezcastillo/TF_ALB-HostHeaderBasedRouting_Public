@@ -1,3 +1,8 @@
+# TF_ALB-HostHeaderBasedRouting_Public
+## **Description Details:**
+
+This repository provides guides and configuration files for implementing Host Header-based routing on the AWS Application Load Balancer (ALB) using Terraform. Learn how to configure routing rules that redirect traffic based on host headers, enabling advanced traffic management in your AWS infrastructure.
+
 ---
 title: AWS ALB Host Header based Routing using Terraform
 description: Create AWS Application Load Balancer Host Header based Routing Rules usign Terraform
